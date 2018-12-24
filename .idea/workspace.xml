@@ -73,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/test/pg/secure/sampleapp/SampleAppConstants.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="91" lean-forward="false" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
+              <caret line="7" column="91" lean-forward="false" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="91" />
               <folding />
             </state>
           </provider>
@@ -2412,7 +2412,7 @@
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SecureAndroidCompleteAppPG" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Latest Android/sampleapp-master/sampleapp-master" />
     <property name="device.picker.selection" value="Pixel_2_XL_API_27" />
     <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
@@ -2716,7 +2716,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/test/pg/secure/sampleapp/SampleAppConstants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="91" lean-forward="false" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
+          <caret line="7" column="91" lean-forward="false" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="91" />
           <folding />
         </state>
       </provider>
