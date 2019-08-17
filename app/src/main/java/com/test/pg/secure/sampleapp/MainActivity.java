@@ -67,6 +67,9 @@ public class MainActivity extends AppCompatActivity {
                 pgPaymentParams.setUdf3(SampleAppConstants.PG_UDF3);
                 pgPaymentParams.setUdf4(SampleAppConstants.PG_UDF4);
                 pgPaymentParams.setUdf5(SampleAppConstants.PG_UDF5);
+                pgPaymentParams.setEnableAutoRefund("n");
+                pgPaymentParams.setOfferCode("testcoupon");
+                //pgPaymentParams.setSplitInfo("{\"vendors\":[{\"vendor_code\":\"24VEN985\",\"split_amount_percentage\":\"20\"}]}");
 
                 PaymentGatewayPaymentInitializer pgPaymentInitialzer = new PaymentGatewayPaymentInitializer(pgPaymentParams,MainActivity.this);
                 pgPaymentInitialzer.initiatePaymentProcess();
