@@ -2,10 +2,10 @@ package com.test.pg.secure.sampleapp;
 
 public class SampleAppConstants {
     //API_KEY is given by the Payment Gateway. Please Copy Paste Here.
-    public static final String PG_API_KEY = "2e61ff64-a396-431e-9e33-56e6a83650e6";
+    public static final String PG_API_KEY = "XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX";
 
     //URL to Accept Payment Response After Payment. This needs to be done at the client's web server.
-    public static final String PG_RETURN_URL = "https://ecaas.traknpay.in/response_page_normal.php";
+    public static final String PG_RETURN_URL = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
     //Enter the Mode of Payment Here . Allowed Values are "LIVE" or "TEST".
     public static final String PG_MODE = "TEST";
@@ -18,7 +18,7 @@ public class SampleAppConstants {
 
     public static final String PG_AMOUNT = "2000";
     public static final String PG_EMAIL = "fdhaskjdfh@gmail.com";
-    public static final String PG_NAME = "Manasa";
+    public static final String PG_NAME = "test";
     public static final String PG_PHONE = "8333873777";
     public static       String PG_ORDER_ID = "";
     public static final String PG_DESCRIPTION = "hv;hghkjgg";
