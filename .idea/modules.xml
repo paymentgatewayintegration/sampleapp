@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PGSDKVR4/PGSDKVR4.iml" filepath="$PROJECT_DIR$/PGSDKVR4/PGSDKVR4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sampleapp.iml" filepath="$PROJECT_DIR$/sampleapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PGSDKVR4/PGSDKVR4.iml" filepath="$PROJECT_DIR$/.idea/modules/PGSDKVR4/PGSDKVR4.iml" group="sampleapp/PGSDKVR4" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="sampleapp/app" />
+      <module fileurl="file://$PROJECT_DIR$/sampleapp.iml" filepath="$PROJECT_DIR$/sampleapp.iml" group="sampleapp" />
     </modules>
   </component>
 </project>
