@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: artifacts:PGSDKVR4:unspecified@jar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PGSDKVR4.aar/b3ff8fed6f868839b02f7db9e7933b01/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PGSDKVR4.aar/b3ff8fed6f868839b02f7db9e7933b01/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PGSDKVR4.aar/b3ff8fed6f868839b02f7db9e7933b01/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PGSDKVR4.aar/62ee97dde72b93241a99b9a2af2fae3e/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PGSDKVR4.aar/62ee97dde72b93241a99b9a2af2fae3e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PGSDKVR4.aar/62ee97dde72b93241a99b9a2af2fae3e/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

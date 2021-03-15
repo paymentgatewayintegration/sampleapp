@@ -100,6 +100,7 @@ public class MainActivity extends AppCompatActivity {
                         JSONObject response = new JSONObject(paymentResponse);
                         transactionIdView.setText("Transaction ID: "+response.getString("transaction_id"));
                         transactionStatusView.setText("Transaction Status: "+response.getString("response_message"));
+                        System.out.println("UDF3: "+response.getString("udf3"));
                     }
 
                 }catch (JSONException e){
